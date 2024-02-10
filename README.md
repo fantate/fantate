@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @fantate
-- 👀 I’m interested in food and game.
-- 🌱 I’m currently learning blockchain.
+
